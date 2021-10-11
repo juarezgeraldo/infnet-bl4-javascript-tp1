@@ -2,6 +2,6 @@
 ## Instituto Infnet
 ### Análise e Desenvolvimento de Sistemas - Javascript
 ### Trabalho Prático 1
-#### Professor: Thais
+#### Professor: Thaís do Nascimento Viana
 #### Aluno: Juarez Geraldo da Silva junior
 Trabalho Prático 1 da disciplina de Javascript para demonstrar as competências trabalhadas nas etapas 1 e 2.
